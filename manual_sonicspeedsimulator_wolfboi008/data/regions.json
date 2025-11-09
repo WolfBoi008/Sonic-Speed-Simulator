@@ -1,0 +1,91 @@
+{
+  "Green Hill Zone": {
+    "starting": true,
+    "connects_to": [
+      "Lost Valley Zone"
+    ],
+    "requires": []
+  },
+  "Lost Valley Zone": {
+    "connects_to": [
+      "Emerald Hill Zone"
+    ],
+    "requires": "|Progressive World Key:1| AND |Sonic|"
+  },
+  "Emerald Hill Zone": {
+    "connects_to": [
+      "New Yoke City"
+    ],
+    "requires": "|Progressive World Key:2| AND |Tails|"
+  },
+  "New Yoke City": {
+    "connects_to": [
+      "Hill Top Zone"
+    ],
+    "requires": "|Progressive World Key:3| AND |Silver|"
+  },
+  "Hill Top Zone": {
+    "connects_to": [
+      "Speed Jungle Zone"
+    ],
+    "requires": "|Progressive World Key:4| AND |Sonic (New Yoke City)|"
+  },
+  "Speed Jungle Zone": {
+    "connects_to": [
+      "No Place"
+    ],
+    "requires": "|Progressive World Key:5| AND |Blaze|"
+  },
+  "No Place": {
+    "connects_to": [
+      "Cyber Station"
+    ],
+    "requires": "|Progressive World Key:6| AND |Espio|"
+  },
+  "Cyber Station": {
+    "connects_to": [
+      "Metal City Skatepark"
+    ],
+    "requires": "|Progressive World Key:7| AND |Black Rose|"
+  },
+  "Metal City Skatepark": {
+    "connects_to": [
+      "City Escape"
+    ],
+    "requires": "|Progressive World Key:8| AND |Charmy Bee|"
+  },
+  "City Escape": {
+    "connects_to": [
+      "Space Colony Ark"
+    ],
+    "requires": "|Progressive World Key:9| AND |Wave|"
+  },
+  "Space Colony Ark": {
+    "connects_to": [
+      "Radical Highway"
+    ],
+    "requires": "|Progressive World Key:10| AND |Vector|"
+  },
+  "Radical Highway": {
+    "connects_to": [
+      "Pumpkin Hill"
+    ],
+    "requires": "|Progressive World Key:11| AND |Android Shadow Yellow|"
+  },
+  "Pumpkin Hill": {
+    "connects_to": [
+      "Autumn Forest"
+    ],
+    "requires": "|Progressive World Key:12| AND |E-123 Omega|"
+  },
+  "Autumn Forest": {
+    "connects_to": [
+      "Metro City"
+    ],
+    "requires": "|Progressive World Key:13| AND |Vampire Sonic|"
+  },
+  "Metro City": {
+    "connects_to": [],
+    "requires": "|Progressive World Key:14| AND |Scarecrow Gemerl|"
+  }
+}

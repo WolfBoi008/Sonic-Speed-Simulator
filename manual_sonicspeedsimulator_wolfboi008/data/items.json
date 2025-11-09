@@ -1,0 +1,2098 @@
+[
+  {
+    "count": 14,
+    "name": "Progressive World Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tails",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Silver",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic (New Yoke City)",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blaze",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Espio",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Rose",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Charmy Bee",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wave",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vector",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Android Shadow Yellow",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "E-123 Omega",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vampire Sonic",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scarecrow Gemerl",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Android Shadow Orange",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hologram Metal Sonic",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Super Sonic",
+    "category": [
+      "Progression Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Adventure Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Birthday King Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chained-Up Werehog",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chrome Style Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Classic Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Easter Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fake Gold Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fake Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Frontiers Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Racesuit Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Style Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Grind Shoe Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Holiday Cheer Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Holiday Classic Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jester Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Karate Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Movie Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ninja Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ninja Sonic (Maskless)",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Party Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Phantom Rider",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Phantom Rider Unmasked",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pirate Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pixel Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Classic Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rockstar Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic (No Place)",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Stealth Suit Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Steampunk Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tuxedo Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tuxedo Classic Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Valentine's Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Werehog",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Winter Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Zebra Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Adventure Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Camper Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Classic Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Diesel Punk Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "DJ Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fake Gold Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fake Metal Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Style Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Knuckles the Dread",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Movie Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Party Hat Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pixel Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Classic Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Reindeer Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Renegade Knucks",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Series Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Skeleton Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Treasure Hunter Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tuxedo Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Whisper the Wolf",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tangle the Lemur",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Adventure Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Aviator Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Classic Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Detective Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elf Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fake Metal Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Style Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mechanic Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Movie Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pixel Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Classic Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sailor Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tails Nine",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Toy Maker Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Easter Blaze",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Holiday Cheer Blaze",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Blaze",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Magical Girl Blaze",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Maid Blaze",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Blaze",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Blaze",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rockstar Blaze",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Invisible Espio",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ninja Espio",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Espio",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mummy Espio",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Espio",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Wave",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Captain Vector",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "DJ Vector",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Style Vector",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Vector",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Vector",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Armored Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chrome Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Circuit Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Grim Reaper Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Holographic Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Neo Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Overclocked Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Reaper Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Metal Sonic Mach 3.0",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Metal Sonic Mach 3.0",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gemerl",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Style Omega",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Omega",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pumpkin Omega",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Omega",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chaos Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "E-10000G",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Android Shadow Blue",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Android Shadow Gold",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Android Shadow Green",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Android Shadow Pink",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Android Shadow Red",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cream",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Easter Cream",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Cream",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Cream",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Cream",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Winter Cream",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Witch Cream",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Amy Rose",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chef Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Classic Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Easter Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fortune Teller Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gothic Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Holiday Cheer Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kunoichi Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Party Hat Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pixel Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Popstar Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Classic Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rusty Rose",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Valentine's Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Adventure Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Biker Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Captain Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cheetah Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chrome Style Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Clockwork Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Darkness Rises Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Doom Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flame Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Racesuit Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Style Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hero Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Holiday Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Karate Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ninja Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ninja Shadow (Maskless)",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rockstar Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Royal King Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Super Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Vampire Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Warlock Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Winter Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Adventure Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Batten Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Style Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kunoichi Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Prime Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rebel Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rockstar Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Witch Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Storm",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Storm",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jet",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Style Jet",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Jet",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Jet",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Jet",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Winter Jet",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "ESP Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Style Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Holiday Cheer Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riders Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rockstar Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Steampunk Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Vampire Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Big",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Angler Big",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Holiday Cheer Big",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Racesuit Big",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Extreme Rider Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Extreme Rider Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Birthday Classic Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Tangle",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Whisper",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Vector",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chrome Style Silver",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Summer Espio",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Land Style Omega",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "E-10000R",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Agent Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Extreme Rider Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Extreme Rider Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "LEGO Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "LEGO Tails",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "LEGO Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luminosity Charmy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chrome Style Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Egg Robo",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "LEGO Amy",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "LEGO Knuckles",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "LEGO Rouge",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sailor Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Neon Style Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Neon Style Shadow",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gothic Metal Sonic",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Drummer Cream",
+    "category": [
+      "Other Playable Characters"
+    ],
+    "useful": true
+  }
+]
